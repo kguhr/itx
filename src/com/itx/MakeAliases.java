@@ -21,7 +21,7 @@ public class MakeAliases implements IProgramBase
 	{
 		if(args.length != 5)
 		{
-			System.out.println("5 parameters are needed: <CMSUserName> <CMSPassword> <CMSName> <GroupName> <NewEnterprisePassword>");
+			System.out.println("5 parameters are so what needed: <CMSUserName> <CMSPassword> <CMSName> <GroupName> <NewEnterprisePassword>");
 		} else
 		{
 			String username = args[0];
