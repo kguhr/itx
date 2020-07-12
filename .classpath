@@ -2,5 +2,16 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cecore.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/celib.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/certjFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cesdk.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cesession.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/bcm.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/ssljFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/jcmFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cryptojFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cryptojce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/freessl201.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
