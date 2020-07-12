@@ -66,7 +66,7 @@ public class MakeAliases implements IProgramBase
 				}
 				if(!hasEnterprise)
 				{
-					System.out.println("\tAdding Alias: secEnterprise");
+					System.out.println("\tAdding Alias : secEnterprise");
 					object.getAliases().addNew("secEnterprise:" + object.getTitle(), false);
 					object.setNewPassword(enterprisePassword);
 				}
